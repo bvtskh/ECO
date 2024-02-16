@@ -1,0 +1,58 @@
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll.config
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.dll
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.xml
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csprojResolveAssemblyReference.cache
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\u42107\Desktop\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll.config
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.xml
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CoreCompileInputs.cache
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CopyComplete
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll.config
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.dll
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.xml
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csprojAssemblyReference.cache
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CoreCompileInputs.cache
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CopyComplete
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\u23702\Desktop\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.AssemblyReference.cache
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll.config
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.xml
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.AssemblyReference.cache
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CoreCompileInputs.cache
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CopyComplete
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll.config
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.xml
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CoreCompileInputs.cache
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.CopyComplete
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.dll
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.pdb
+C:\Users\U42107\Desktop\ThanhDX\Thanh_Project\ECO DX for PUR\ECO DX for PUR\DATA\ECO_DX_For_PUR.DATA\obj\Debug\ECO_DX_For_PUR.DATA.csproj.AssemblyReference.cache

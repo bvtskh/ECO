@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBE287E8-089A-4AFD-B09D-745F4530B9F8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ECO_DX_For_PUR.DATA</RootNamespace>
+    <AssemblyName>ECO_DX_For_PUR.DATA</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bussiness\EnumDefine\ECO_Schedule_Enum.cs" />
+    <Compile Include="Bussiness\EnumDefine\PE_DM_Enum.cs" />
+    <Compile Include="Bussiness\EnumDefine\PUR_Enum.cs" />
+    <Compile Include="Bussiness\Interface\IBASE.cs" />
+    <Compile Include="Bussiness\Interface\IECO_PURCHASE.cs" />
+    <Compile Include="Bussiness\Interface\IECO_SCHEDULE.cs" />
+    <Compile Include="Bussiness\Interface\ILOGIN.cs" />
+    <Compile Include="Bussiness\Interface\IPRICE.cs" />
+    <Compile Include="Bussiness\Interface\IWO.cs" />
+    <Compile Include="Bussiness\SQLHelper\ECO_Helper.cs" />
+    <Compile Include="Bussiness\SQLHelper\ECO_Schedule_Helper.cs" />
+    <Compile Include="Bussiness\SQLHelper\LoginHelper.cs" />
+    <Compile Include="Bussiness\SQLHelper\PI_BASEHelper.cs" />
+    <Compile Include="Bussiness\SQLHelper\PRICE_Helper.cs" />
+    <Compile Include="Bussiness\SQLHelper\WOHelper.cs" />
+    <Compile Include="Entities\COST_SYSTEM\BC_BOM_LIST.cs" />
+    <Compile Include="Entities\COST_SYSTEM\DBContextBOM.cs" />
+    <Compile Include="Entities\COST_SYSTEM\IMPORT_INFO.cs" />
+    <Compile Include="Entities\COST_SYSTEM\PUR_PART_PRICE.cs" />
+    <Compile Include="Entities\COST_SYSTEM\PUR_ZMM80.cs" />
+    <Compile Include="Entities\COST_SYSTEM\Repository\BOM_List_Repository.cs" />
+    <Compile Include="Entities\COST_SYSTEM\Repository\IMPORT_INFO_Repository.cs" />
+    <Compile Include="Entities\COST_SYSTEM\Repository\PUR_Part_Price_Repository.cs" />
+    <Compile Include="Entities\COST_SYSTEM\Repository\ZMM80_Repository.cs" />
+    <Compile Include="Entities\ECN_ECO\Account.cs" />
+    <Compile Include="Entities\ECN_ECO\Area.cs" />
+    <Compile Include="Entities\ECN_ECO\C__MigrationHistory.cs" />
+    <Compile Include="Entities\ECN_ECO\DBContext.cs" />
+    <Compile Include="Entities\ECN_ECO\ECOSchedule.cs" />
+    <Compile Include="Entities\ECN_ECO\ECO_ControlSheet.cs" />
+    <Compile Include="Entities\ECN_ECO\HistoryUpdateControlSheet.cs" />
+    <Compile Include="Entities\ECN_ECO\Model_Family.cs" />
+    <Compile Include="Entities\ECN_ECO\Purchase_Action.cs" />
+    <Compile Include="Entities\ECN_ECO\Repository\ECO_ControlSheet_Repository.cs" />
+    <Compile Include="Entities\ECN_ECO\Repository\HistoryUpdateControlsheet.cs" />
+    <Compile Include="Entities\ECN_ECO\Repository\PE_DM_ControlSheet_Repository.cs" />
+    <Compile Include="Entities\ECN_ECO\Repository\PurchaseAction_Repository.cs" />
+    <Compile Include="Entities\ECN_ECO\Repository\WO_Relationship_Repository.cs" />
+    <Compile Include="Entities\ECN_ECO\Tbl_WO_Relationship.cs" />
+    <Compile Include="Entities\ECN_ECO\Versions.cs" />
+    <Compile Include="Entities\ECN_ECO\WoChanging.cs" />
+    <Compile Include="Entities\ECN_ECO\WoChangingHistory.cs" />
+    <Compile Include="Entities\ECN_ECO\WO_Relationship.cs" />
+    <Compile Include="Entities\PI_BASE\Customer.cs" />
+    <Compile Include="Entities\PI_BASE\DBContext_PI_BASE.cs" />
+    <Compile Include="Entities\PI_BASE\ModelMaster.cs" />
+    <Compile Include="Entities\PI_BASE\Repository\PI_BASE_Repository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sysdiagram.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\..\GUI\ECO_DX_For_PUR.GUI\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
